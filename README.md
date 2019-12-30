@@ -1,4 +1,4 @@
 # test-merge-repo
 
-Writen by @soberstadt
+Writen by @soberstadt to test the merge bot
 
