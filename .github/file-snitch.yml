@@ -1,6 +1,6 @@
 addReviewers: true
 reviewers:
   a.yml:
-    - reviewerA
+    - OzzieOrca
   dir/b.yml:
     - org/reviewerB
